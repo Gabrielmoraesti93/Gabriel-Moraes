@@ -31,9 +31,9 @@ Atualmente estudando **Java, JavaScript e Scrum**, com foco em construir projeto
 ---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/SEU_LINK  
+- LinkedIn:https://www.linkedin.com/in/gabrielsmoraesagile/
 - GitHub: https://github.com/Gabrielmoraesti93  
-- Email: seuemail@gmail.com
+- Email: moraesgabrielti@gmail.com
 
 
 ⭐ *This profile is under continuous improvement, just like good Agile projects.*
