@@ -1,58 +1,39 @@
-# 👋 Hi, I'm Gabriel Moraes
+# # 👋 Olá, eu sou Gabriel Moraes
 
-🎯 IT professional focused on **Agile Project Management**, **Scrum**, and **process improvement**.  
-📈 Building practical projects to connect **technology, people, and results**.  
-💻 Currently learning **Java** and **JavaScript** to strengthen my technical background.
-
----
-
-## 🚀 About Me
-
-- 🔹 Experience in IT operations and team supervision  
-- 🔹 Strong interest in **Agile methods (Scrum & Kanban)**  
-- 🔹 Focused on **process optimization and continuous improvement**  
-- 🔹 Studying software development to better support technical and product teams  
-
-I believe that **good processes + clear communication + technology** are key to delivering value.
+Sou profissional de TI em transição para desenvolvimento de software e gestão ágil.  
+Atualmente estudando **Java, JavaScript e Scrum**, com foco em construir projetos reais e crescer na área tech.
 
 ---
 
-## 🛠️ Skills & Tools
-
-**Agile & Management**
-- Scrum
-- Kanban
-- Agile mindset
-- Process mapping & improvement
-- Basic BPMN
-
-**Technical**
-- Java (learning)
-- JavaScript (learning)
-- Git & GitHub
-- Markdown
-
-**Tools**
-- GitHub Projects
-- Trello
-- VS Code
+## 🚀 Sobre mim
+- Supervisor de produção em time de TI  
+- Estudando para atuar como **Dev / Scrum Master**  
+- Interesse em automação, sistemas web e produtos digitais  
+- Buscando oportunidades e projetos práticos
 
 ---
 
-## 📂 Featured Projects
-
-🚧 *Projects in progress*  
-This profile is being used to:
-- Practice Git and GitHub
-- Document learning projects
-- Simulate Agile workflows (issues, boards, documentation)
+## 🧠 Tecnologias & Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📫 Contact
+## 💻 Projetos em Destaque
+- 🔹 **Sistema de Chamados de TI**  
+- 🔹 **CRUD de Usuários com Login**  
+- 🔹 **Automação com Java**  
 
-- 💼 LinkedIn: [linkedin.com/in/gabrielsmoraesagile](https://www.linkedin.com/in/gabrielsmoraesagile)
+*(ver repositórios fixados abaixo)*
 
 ---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/SEU_LINK  
+- GitHub: https://github.com/Gabrielmoraesti93  
+- Email: seuemail@gmail.com
+
 
 ⭐ *This profile is under continuous improvement, just like good Agile projects.*
